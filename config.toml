@@ -1,0 +1,6 @@
+baseurl = "http://chengyongyuan.github.io"
+languageCode = "zh-cn"
+title = "Colincheng's site on github."
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
