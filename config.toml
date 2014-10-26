@@ -1,6 +1,6 @@
 baseurl = "http://chengyongyuan.github.io/public"
 languageCode = "zh-cn"
-title = "colin 's blog"
+title = "/dev/null"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
