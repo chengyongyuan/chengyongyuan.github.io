@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://chengyongyuan.github.io/public/</loc>
-    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2014-10-26T01:38:49-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://chengyongyuan.github.io/public/posts/first/</loc>
+    <lastmod>2014-10-26T01:38:49-07:00</lastmod>
   </url>
   
 </urlset>
