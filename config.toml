@@ -1,6 +1,6 @@
-baseurl = "http://chengyongyuan.github.io"
+baseurl = "http://chengyongyuan.github.io/public"
 languageCode = "zh-cn"
-title = "Colincheng's site on github."
+title = "colincheng 's blog"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
